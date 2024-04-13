@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713010749590" clover="3.2.0">
+  <project timestamp="1713010749590" name="All files">
+    <metrics statements="61" coveredstatements="45" conditionals="12" coveredconditionals="11" methods="7" coveredmethods="5" elements="80" coveredelements="61" complexity="0" loc="61" ncloc="61" packages="1" files="5" classes="5"/>
+    <file name="ex1-stringManipulation.js" path="C:\Users\MSI\Desktop\insat\GL4\2 eme semestre\test\tp1-vitest-js\src\ex1-stringManipulation.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+    </file>
+    <file name="ex2-sorting.js" path="C:\Users\MSI\Desktop\insat\GL4\2 eme semestre\test\tp1-vitest-js\src\ex2-sorting.js">
+      <metrics statements="27" coveredstatements="15" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="17" count="5" type="stmt"/>
+      <line num="18" count="5" type="stmt"/>
+      <line num="19" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="20" count="5" type="stmt"/>
+      <line num="21" count="5" type="stmt"/>
+      <line num="22" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="23" count="5" type="stmt"/>
+      <line num="24" count="5" type="stmt"/>
+      <line num="25" count="5" type="stmt"/>
+      <line num="26" count="5" type="stmt"/>
+      <line num="27" count="5" type="stmt"/>
+    </file>
+    <file name="ex3-priceboundary.js" path="C:\Users\MSI\Desktop\insat\GL4\2 eme semestre\test\tp1-vitest-js\src\ex3-priceboundary.js">
+      <metrics statements="18" coveredstatements="16" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="9" count="6" type="cond" truecount="1" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="6" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="17" count="6" type="cond" truecount="1" falsecount="0"/>
+      <line num="18" count="6" type="stmt"/>
+    </file>
+    <file name="ex4-async.js" path="C:\Users\MSI\Desktop\insat\GL4\2 eme semestre\test\tp1-vitest-js\src\ex4-async.js">
+      <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="cond" truecount="0" falsecount="1"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="math.js" path="C:\Users\MSI\Desktop\insat\GL4\2 eme semestre\test\tp1-vitest-js\src\math.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
